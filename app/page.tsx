@@ -130,7 +130,7 @@ export default function Landing() {
             </p>
             <div className="mt-6 flex gap-3">
               <Button asChild variant="outline">
-                <a href="mailto:lance.kizer@gmail.com"><Mail className="mr-2 h-4 w-4"/> Email me</a>
+                <a href="mailto:lance@sak-consulting.net"><Mail className="mr-2 h-4 w-4"/> Email me</a>
               </Button>
               <Button asChild variant="ghost">
                 <a href="https://substack.com" target="_blank" rel="noreferrer">
