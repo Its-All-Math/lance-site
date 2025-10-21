@@ -223,7 +223,7 @@ export default function Landing() {
       {/* Footer */}
       <footer className="border-t">
         <div className="max-w-6xl mx-auto px-4 py-10 text-sm text-gray-600 flex flex-col md:flex-row items-center justify-between gap-4">
-          <div>© {new Date().getFullYear()} Lance Kizer Consulting</div>
+          <div>© {new Date().getFullYear()} SAK Consulting</div>
           <div className="flex items-center gap-4">
             <a href="https://substack.com/@itsallmath" target="_blank" rel="noreferrer" className="underline">Substack</a>
             <a href="https://www.linkedin.com/in/lance-kizer-a35a934?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJ2XiuqpkROSLS8VI%2FExA9A%3D%3D" className="underline">LinkedIn</a>

@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "SAK Consulting",
-  description: "Unlocking potential",
+  description: "Unlocking potential in hard tech start-ups providing a swiss army knife toolkit of hard and soft skills",
 };
 
 export default function RootLayout({
