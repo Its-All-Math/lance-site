@@ -45,10 +45,10 @@ export default function Landing() {
               transition={{ duration: 0.6 }}
               className="text-3xl md:text-5xl font-extrabold tracking-tight"
             >
-              Pragmatic biotech, people & product work for your startup
+              Pragmatic biotech, people & product development for your startup
             </motion.h1>
             <p className="mt-5 text-lg text-gray-600 max-w-xl">
-              With over two decades of experinece in hard tech and a swiss-army knife toolkit of skills, I help early-stage teams go from idea to execution, build top-performing  teams, and align tech milestones with the business case.
+              With 25 years in hard tech and a proven Swiss-army-knife skillset, I help early-stage teams turn ideas into execution, build high-performing teams, and align technology milestones with business goals.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-3">
               <Button asChild className="group">
