@@ -123,10 +123,7 @@ export default function Landing() {
           <div>
             <h2 className="text-2xl md:text-3xl font-bold tracking-tight">About Lance</h2>
             <p className="mt-4 text-gray-700 leading-relaxed">
-              Ph.D. Chemical Engineering (UC Berkeley). Former CTO and VP R&D across
-              biotech, food tech, and climate tech. I’ve led teams scaling from
-              bench to 75 m³, built TEA models, negotiated with CMOs, and shipped
-              real products. I like turning ambiguity into execution.
+              I’m a chemical engineer and biotech leader with over two decades of experience turning breakthrough science into scalable products. After receiving my Ph.D in Chemical Engineering (UC Berkeley) I have focused my efforts on a wide range of industries, from pioneering renewable ingredients at Amyris and developing plant-based foods at Ripple, to founding Cana’s molecular beverage platform and leading VitroLabs’ tissue-grown leather, I’ve built teams that translate innovation into reality. Now as CTO at Huue.bio, I’m guiding scale-up of E. coli fermentation to produce sustainable indigo by combining biology, engineering, and strategy to accelerate a cleaner manufacturing future.
             </p>
             <div className="mt-6 flex gap-3">
               <Button asChild variant="outline">
