@@ -48,8 +48,7 @@ export default function Landing() {
               Pragmatic biotech & product strategy for startups
             </motion.h1>
             <p className="mt-5 text-lg text-gray-600 max-w-xl">
-              I help early-stage teams go from idea to execution—de-risking R&D, building
-              data pipelines, and aligning tech milestones with the business case.
+              I help early-stage teams go from idea to execution, de-risking R&D, build top-performing technical teams, and aligning tech milestones with the business case.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-3">
               <Button asChild className="group">
@@ -69,14 +68,14 @@ export default function Landing() {
           <div>
             <Card className="shadow-lg">
               <CardHeader>
-                <CardTitle>What I typically help with</CardTitle>
+                <CardTitle>Some of the areas I can help with</CardTitle>
               </CardHeader>
               <CardContent>
                 <ul className="grid grid-cols-1 gap-3 text-sm text-gray-700">
-                  <li className="flex items-start gap-2"><ChevronRight className="mt-0.5 h-4 w-4"/> Scale-up strategy (benchtop → pilot)</li>
-                  <li className="flex items-start gap-2"><ChevronRight className="mt-0.5 h-4 w-4"/> Fermentation data pipelines & dashboards</li>
+                  <li className="flex items-start gap-2"><ChevronRight className="mt-0.5 h-4 w-4"/> Scale-up strategy (benchtop → pilot → commercial)</li>
+                  <li className="flex items-start gap-2"><ChevronRight className="mt-0.5 h-4 w-4"/> Data analysis pipelines → actionable results</li>
                   <li className="flex items-start gap-2"><ChevronRight className="mt-0.5 h-4 w-4"/> Technical due diligence & roadmap triage</li>
-                  <li className="flex items-start gap-2"><ChevronRight className="mt-0.5 h-4 w-4"/> Experimental design & analytics (PCA, TEA)</li>
+                  <li className="flex items-start gap-2"><ChevronRight className="mt-0.5 h-4 w-4"/> Management and leadership coaching</li>
                 </ul>
               </CardContent>
             </Card>
@@ -107,10 +106,10 @@ export default function Landing() {
             </Card>
             <Card>
               <CardHeader>
-                <CardTitle>Scale‑up checkpoints</CardTitle>
+                <CardTitle>People Coaching</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-sm text-gray-700">Gate reviews from seed train to pilot, with OTR/kLa sanity checks and DSP hand‑offs.</p>
+                <p className="text-sm text-gray-700">Coach technical leaders on people strategy and getting engagment from thier teams.</p>
               </CardContent>
             </Card>
           </div>
