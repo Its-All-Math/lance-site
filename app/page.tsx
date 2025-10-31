@@ -93,15 +93,15 @@ export default function Landing() {
                 <CardTitle>Advisory sprints</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-sm text-gray-700">2–4 weeks, clear deliverables: risk map, next 90‑day plan, and KPI suggestions.</p>
+                <p className="text-sm text-gray-700">2–4 weeks, clear deliverables: pitch review, technical diligence, quickly assess a new approach or side bet to your tech development roadmap.</p>
               </CardContent>
             </Card>
             <Card>
               <CardHeader>
-                <CardTitle>Data & dashboards</CardTitle>
+                <CardTitle>Longer term projects</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-sm text-gray-700">Stand up a clean telemetry/assay pipeline, a few key SQL views, and a usable dashboard.</p>
+                <p className="text-sm text-gray-700">Project manage a development workstream, build light-weight data workflow -> dashboards, support interview process for a key technical hire, develpp technical roadmaps .</p>
               </CardContent>
             </Card>
             <Card>
