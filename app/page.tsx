@@ -20,7 +20,7 @@ export default function Landing() {
       {/* Nav */}
       <header className="sticky top-0 z-40 backdrop-blur bg-white/75 border-b">
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-          <a href="#home" className="font-semibold tracking-tight">Lance Kizer, SAK Consulting</a>
+          <a href="#home" className="font-semibold tracking-tight">Lance Kizer, S.A.K. Consulting</a>
           <nav className="hidden md:flex gap-6 text-sm">
             <a href="#services" className="hover:opacity-80">Services</a>
             <a href="#about" className="hover:opacity-80">About</a>
@@ -155,9 +155,9 @@ export default function Landing() {
               </CardHeader>
               <CardContent className="text-sm text-gray-700">
                 <ul className="space-y-2">
-                  <li><a className="underline" href="#" target="_blank" rel="noreferrer">Case study: 150‑L pilot after‑action</a></li>
-                  <li><a className="underline" href="#" target="_blank" rel="noreferrer">SQL views for 0.25‑h telemetry joins</a></li>
-                  <li><a className="underline" href="#" target="_blank" rel="noreferrer">OTR/kLa sanity checks in DASGIP</a></li>
+                  <li><a className="underline" href="#" target="_blank" rel="noreferrer">Case study: Small-scale pilot after‑action</a></li>
+                  <li><a className="underline" href="#" target="_blank" rel="noreferrer">Data mining pipeline for fermentation</a></li>
+                  <li><a className="underline" href="#" target="_blank" rel="noreferrer">Lean enzyme bioinformatic workflows</a></li>
                 </ul>
               </CardContent>
             </Card>
@@ -173,17 +173,15 @@ export default function Landing() {
             <Card>
               <CardContent className="pt-6 text-gray-700">
                 <Quote className="inline mr-2 h-4 w-4"/>
-                “Lance turned a messy dataset into decisions in two weeks. We hit our
-                next milestone with confidence.”
-                <div className="mt-3 text-sm text-gray-500">— Placeholder Client, Seed‑stage bioprocess</div>
+                “Lance provide clear feedback and quick turnaround on a key technical due diligance we needed for an investment decision.”
+                <div className="mt-3 text-sm text-gray-500">— Client, Seed‑stage VC</div>
               </CardContent>
             </Card>
             <Card>
               <CardContent className="pt-6 text-gray-700">
                 <Quote className="inline mr-2 h-4 w-4"/>
-                “Clear frameworks, practical playbooks, and zero fluff. Exactly what
-                we needed.”
-                <div className="mt-3 text-sm text-gray-500">— Placeholder Client, Climate tech</div>
+                “Great 1x1 coaching to remove friction from our team, changed my mindset completely.”
+                <div className="mt-3 text-sm text-gray-500">— Engineering Leader</div>
               </CardContent>
             </Card>
           </div>
@@ -223,7 +221,7 @@ export default function Landing() {
       {/* Footer */}
       <footer className="border-t">
         <div className="max-w-6xl mx-auto px-4 py-10 text-sm text-gray-600 flex flex-col md:flex-row items-center justify-between gap-4">
-          <div>© {new Date().getFullYear()} SAK Consulting</div>
+          <div>© {new Date().getFullYear()} S.A.K. Consulting</div>
           <div className="flex items-center gap-4">
             <a href="https://substack.com/@itsallmath" target="_blank" rel="noreferrer" className="underline">Substack</a>
             <a href="https://www.linkedin.com/in/lance-kizer-a35a934?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJ2XiuqpkROSLS8VI%2FExA9A%3D%3D" className="underline">LinkedIn</a>
