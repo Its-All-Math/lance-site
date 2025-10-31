@@ -142,10 +142,10 @@ export default function Landing() {
               </CardHeader>
               <CardContent>
                 <ul className="list-disc pl-5 text-gray-700 text-sm space-y-1">
-                  <li>Fermentation & DSP interfaces</li>
-                  <li>Data warehousing (Postgres/Metabase)</li>
-                  <li>Experimental design, PCA, TEA</li>
-                  <li>Early‑stage org & process design</li>
+                  <li>Process development at bench, pilot or commercial scale</li>
+                  <li>R&D strategy, leadership and org structure (esp early stage)</li>
+                  <li>Experimental design and data analysis</li>
+                  <li>Hard tech development in foodtech, synthetic biology and much more</li>
                 </ul>
               </CardContent>
             </Card>
