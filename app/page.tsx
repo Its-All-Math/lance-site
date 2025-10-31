@@ -101,7 +101,7 @@ export default function Landing() {
                 <CardTitle>Longer term projects</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-sm text-gray-700">Project manage a development workstream, build light-weight data workflow -> dashboards, support interview process for a key technical hire, develpp technical roadmaps .</p>
+                <p className="text-sm text-gray-700">Project manage a development workstream, build light-weight data workflow into dashboards, support interview process for a key technical hire, develpp technical roadmaps .</p>
               </CardContent>
             </Card>
             <Card>
