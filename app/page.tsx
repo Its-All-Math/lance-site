@@ -205,7 +205,7 @@ export default function Landing() {
                 <CardTitle>Request an intro call</CardTitle>
               </CardHeader>
               <CardContent>
-                <form action="https://formspree.io/f/https://formspree.io/f/manlgraa" method="POST" className="space-y-3">
+                <form action="https://formspree.io/f/manlgraa" method="POST" className="space-y-3" accept-charset="UTF-8">
                   <input type="hidden" name="_subject" value="New intro request from S.A.K. Consulting" />
                   {/* Honeypot field to deter bots; leave empty */}
                   <input type="text" name="_gotcha" className="hidden" tabIndex={-1} autoComplete="off" />
